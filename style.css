@@ -1,0 +1,48 @@
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    font-family:'Geostar';
+    color: aliceblue;
+}
+
+.los_malos {
+    background: red;
+}
+
+.los_buenos {
+    background: blue;
+}
+
+#darth {
+    font-size: larger;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.soldados {
+    border: 2px dotted yellow;
+    letter-spacing: 3px;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
+
+.droides {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+li, ul {
+    text-decoration: none;
+}
